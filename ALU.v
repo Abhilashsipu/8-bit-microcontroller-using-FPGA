@@ -1,15 +1,15 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Abhilash Mishra
 // 
 // Create Date: 09.04.2022 15:48:33
 // Design Name: 
 // Module Name: ALU
-// Project Name: 
-// Target Devices: 
+// Project Name: 8 Bit Microcontroller using FPGA
+// Target Devices: Xilinx Spartan 6 FPGA Board
 // Tool Versions: 
-// Description: 
+// Description: See the report for detailed description and images related.
 // 
 // Dependencies: 
 // 
