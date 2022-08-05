@@ -1,15 +1,15 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Abhilash Mishra
 // 
-// Create Date: 09.04.2022 15:59:55
+// Create Date: 09.04.2022 15:48:33
 // Design Name: 
-// Module Name: Control_logic
-// Project Name: 
-// Target Devices: 
+// Module Name: ALU
+// Project Name: 8 Bit Microcontroller using FPGA
+// Target Devices: Xilinx Spartan 6 FPGA Board
 // Tool Versions: 
-// Description: 
+// Description: See the report for detailed description and images related.
 // 
 // Dependencies: 
 // 
@@ -18,7 +18,6 @@
 // Additional Comments:
 // 
 //////////////////////////////////////////////////////////////////////////////////
-
 
 module Control_Logic(
 input[1:0] stage,
